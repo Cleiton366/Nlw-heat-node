@@ -30,3 +30,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Inicie o servidor com `yarn dev`;
 
 A aplicação pode ser acessada em [`localhost:4000`](http://localhost:4000).
+
+[Acesse aqui o repositório do front-end](https://github.com/Cleiton366/Nlw-heat-react)
